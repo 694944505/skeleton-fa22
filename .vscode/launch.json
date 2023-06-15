@@ -1,0 +1,196 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Collatz",
+            "request": "launch",
+            "mainClass": "Collatz",
+            "projectName": "skeleton-fa22_5af8b60f"
+        },
+        {
+            "type": "java",
+            "name": "DebugExercise1",
+            "request": "launch",
+            "mainClass": "DebugExercise.DebugExercise1",
+            "projectName": "skeleton-fa22_5af8b60f"
+        },
+        {
+            "type": "java",
+            "name": "DebugExercise2",
+            "request": "launch",
+            "mainClass": "DebugExercise.DebugExercise2",
+            "projectName": "skeleton-fa22_5af8b60f"
+        },
+        {
+            "type": "java",
+            "name": "Primes",
+            "request": "launch",
+            "mainClass": "IntList.Primes",
+            "projectName": "skeleton-fa22_5af8b60f"
+        },
+        {
+            "type": "java",
+            "name": "LeapYear",
+            "request": "launch",
+            "mainClass": "LeapYear",
+            "projectName": "skeleton-fa22_5af8b60f"
+        },
+        {
+            "type": "java",
+            "name": "MemoryGame",
+            "request": "launch",
+            "mainClass": "MemoryGame.MemoryGame",
+            "projectName": "skeleton-fa22_5af8b60f"
+        },
+        {
+            "type": "java",
+            "name": "BoringWorldDemo",
+            "request": "launch",
+            "mainClass": "PlusWorld.BoringWorldDemo",
+            "projectName": "skeleton-fa22_5af8b60f"
+        },
+        {
+            "type": "java",
+            "name": "RandomWorldDemo",
+            "request": "launch",
+            "mainClass": "PlusWorld.RandomWorldDemo",
+            "projectName": "skeleton-fa22_5af8b60f"
+        },
+        {
+            "type": "java",
+            "name": "InsertInOrderSpeedTest",
+            "request": "launch",
+            "mainClass": "bstmap.InsertInOrderSpeedTest",
+            "projectName": "skeleton-fa22_5af8b60f"
+        },
+        {
+            "type": "java",
+            "name": "InsertRandomSpeedTest",
+            "request": "launch",
+            "mainClass": "bstmap.InsertRandomSpeedTest",
+            "projectName": "skeleton-fa22_5af8b60f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "byow.Core.Main",
+            "projectName": "skeleton-fa22_5af8b60f"
+        },
+        {
+            "type": "java",
+            "name": "DemoInputSource",
+            "request": "launch",
+            "mainClass": "byow.InputDemo.DemoInputSource",
+            "projectName": "skeleton-fa22_5af8b60f"
+        },
+        {
+            "type": "java",
+            "name": "CustomizableMain",
+            "request": "launch",
+            "mainClass": "game2048.CustomizableMain",
+            "projectName": "skeleton-fa22_5af8b60f"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "game2048.Main",
+            "projectName": "skeleton-fa22_5af8b60f"
+        },
+        {
+            "type": "java",
+            "name": "GuitarHeroLite",
+            "request": "launch",
+            "mainClass": "gh2.GuitarHeroLite",
+            "projectName": "skeleton-fa22_5af8b60f"
+        },
+        {
+            "type": "java",
+            "name": "TTFAF",
+            "request": "launch",
+            "mainClass": "gh2.TTFAF",
+            "projectName": "skeleton-fa22_5af8b60f"
+        },
+        {
+            "type": "java",
+            "name": "FileReaderDemo",
+            "request": "launch",
+            "mainClass": "ngordnet.main.FileReaderDemo",
+            "projectName": "skeleton-fa22_5af8b60f"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "ngordnet.main.Main",
+            "projectName": "skeleton-fa22_5af8b60f"
+        },
+        {
+            "type": "java",
+            "name": "PlotDemo",
+            "request": "launch",
+            "mainClass": "ngordnet.main.PlotDemo",
+            "projectName": "skeleton-fa22_5af8b60f"
+        },
+        {
+            "type": "java",
+            "name": "BucketsSpeedTest",
+            "request": "launch",
+            "mainClass": "speed.BucketsSpeedTest",
+            "projectName": "skeleton-fa22_5af8b60f"
+        },
+        {
+            "type": "java",
+            "name": "InsertInOrderSpeedTest(1)",
+            "request": "launch",
+            "mainClass": "speed.InsertInOrderSpeedTest",
+            "projectName": "skeleton-fa22_5af8b60f"
+        },
+        {
+            "type": "java",
+            "name": "InsertRandomSpeedTest(1)",
+            "request": "launch",
+            "mainClass": "speed.InsertRandomSpeedTest",
+            "projectName": "skeleton-fa22_5af8b60f"
+        },
+        {
+            "type": "java",
+            "name": "SLList",
+            "request": "launch",
+            "mainClass": "timingtest.SLList",
+            "projectName": "skeleton-fa22_5af8b60f"
+        },
+        {
+            "type": "java",
+            "name": "StopwatchDemo",
+            "request": "launch",
+            "mainClass": "timingtest.StopwatchDemo",
+            "projectName": "skeleton-fa22_5af8b60f"
+        },
+        {
+            "type": "java",
+            "name": "TimeAList",
+            "request": "launch",
+            "mainClass": "timingtest.TimeAList",
+            "projectName": "skeleton-fa22_5af8b60f"
+        },
+        {
+            "type": "java",
+            "name": "TimeSLList",
+            "request": "launch",
+            "mainClass": "timingtest.TimeSLList",
+            "projectName": "skeleton-fa22_5af8b60f"
+        }
+    ]
+}
